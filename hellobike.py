@@ -1,11 +1,3 @@
-test rebase
-1
-2
-3
-4
-5
-6
-7
 哈罗单车
 test rebase
 哈罗单车
@@ -14,7 +6,4 @@ hello shanghai
 hello hangzhou
 hello tongling
 hello future
-one
-two
-three
 dream comes true
